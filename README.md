@@ -9,5 +9,5 @@ https://arxiv.org/pdf/2108.03502.pdf
 * Introduce the notion of Verifiers to solve math problems gpt3
 https://arxiv.org/pdf/2110.14168.pdf
 * Very interesting paper for filtering the output of text generation models https://arxiv.org/pdf/2112.08674.pdf using another model (T5).
-* 
+* GPTJ 6B finetuning on google colab
 
