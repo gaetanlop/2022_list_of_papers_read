@@ -12,3 +12,5 @@ https://arxiv.org/pdf/2110.14168.pdf
 * GPTJ 6B finetuning on google colab https://colab.research.google.com/drive/1lMja-CPc0vm5_-gXNXAWU-9c0nom7vZ9?usp=sharing
 * 
 
+
+* STraTa: Self Training with task augmentation for Better Few-shot Learning https://arxiv.org/pdf/2109.06270.pdf
