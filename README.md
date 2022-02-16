@@ -13,4 +13,4 @@ https://arxiv.org/pdf/2110.14168.pdf
 * 
 
 
-* STraTa: Self Training with task augmentation for Better Few-shot Learning https://arxiv.org/pdf/2109.06270.pdf
+* STraTa: Self Training with task augmentation for Better Few-shot Learning https://arxiv.org/pdf/2109.06270.pdf AMAZING
