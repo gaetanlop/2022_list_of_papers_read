@@ -1,5 +1,6 @@
 # 2022_list_of_papers_read
 
+* NOT UPDATED anymore
 * Want To Reduce Labeling Cost? GPT-3 Can Help https://www.microsoft.com/en-us/research/uploads/prod/2021/09/emnlp2021.pdf
 * Calibrate Before Use: Improving Few-Shot Performance of Language Models https://arxiv.org/pdf/2102.09690.pdf : High variance of GPT3 depending on the prompt, 3 main biases: Majority Label Bias, Common Token Bias, Recency Bias 
 * Video games with NLP subject: https://dl.acm.org/doi/fullHtml/10.1145/3472538.3472595
@@ -10,7 +11,4 @@ https://arxiv.org/pdf/2108.03502.pdf
 https://arxiv.org/pdf/2110.14168.pdf
 * Very interesting paper for filtering the output of text generation models https://arxiv.org/pdf/2112.08674.pdf using another model (T5).
 * GPTJ 6B finetuning on google colab https://colab.research.google.com/drive/1lMja-CPc0vm5_-gXNXAWU-9c0nom7vZ9?usp=sharing
-* 
-
-
 * STraTa: Self Training with task augmentation for Better Few-shot Learning https://arxiv.org/pdf/2109.06270.pdf AMAZING
